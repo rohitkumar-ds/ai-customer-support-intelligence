@@ -1,0 +1,10 @@
+{"text":"I am dissatisfied with the product performance and request a full refund within 30 days.","intent":"cancellation_and_refund"}
+{"text":"Can you provide a tax invoice with our official company legal name and address?","intent":"billing_and_payments"}
+{"text":"Where can I view your compliance whitepapers for SOC2 Type II and HIPAA?","intent":"general_inquiry"}
+{"text":"Can you verify if package with tracking ID #93019 requires signature on delivery?","intent":"order_tracking"}
+{"text":"Internal error 503 Service Unavailable when invoking the batch export endpoint.","intent":"technical_support"}
+{"text":"Locked out of my dashboard because my mobile authenticator was on a lost device.","intent":"account_access"}
+{"text":"Database sync is broken after updating to the latest desktop application version.","intent":"technical_support"}
+{"text":"Suspicious login alert received from an unknown IP address in another country.","intent":"account_access"}
+{"text":"Received a bill for seats we removed two weeks ago from our workspace.","intent":"billing_and_payments"}
+{"text":"I would like to return an open-box defective headset under your 30-day return policy.","intent":"cancellation_and_refund"}

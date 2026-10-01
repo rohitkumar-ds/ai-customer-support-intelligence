@@ -1,0 +1,24 @@
+{"id": "t-1001", "text": "I was double charged on my credit card for the monthly subscription on March 5th.", "intent": "billing_and_payments", "urgency": "high"}
+{"id": "t-1002", "text": "Can I cancel my subscription and receive a prorated refund for the remaining months?", "intent": "cancellation_and_refund", "urgency": "medium"}
+{"id": "t-1003", "text": "I forgot my password and the reset link emailed to me is expired.", "intent": "account_access", "urgency": "high"}
+{"id": "t-1004", "text": "Where is my order #84920? The tracking link hasn't updated in 4 days.", "intent": "order_tracking", "urgency": "medium"}
+{"id": "t-1005", "text": "The mobile app keeps crashing immediately after I log in on iOS 17.", "intent": "technical_support", "urgency": "critical"}
+{"id": "t-1006", "text": "What are your business hours and do you offer telephone support on weekends?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "t-1007", "text": "I want to update my billing address and VAT registration number for my enterprise invoice.", "intent": "billing_and_payments", "urgency": "medium"}
+{"id": "t-1008", "text": "I bought this item yesterday by mistake. Please cancel the shipment and refund my money immediately.", "intent": "cancellation_and_refund", "urgency": "high"}
+{"id": "t-1009", "text": "My 2-Factor Authentication code is not arriving on my phone, I am locked out.", "intent": "account_access", "urgency": "critical"}
+{"id": "t-1010", "text": "Tracking number US94821 shows delivered but there is no package at my door.", "intent": "order_tracking", "urgency": "high"}
+{"id": "t-1011", "text": "Getting a 500 internal server error when uploading a CSV file in the reports tab.", "intent": "technical_support", "urgency": "high"}
+{"id": "t-1012", "text": "Do you support single sign-on (SSO) with Okta or Google Workspace?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "t-1013", "text": "Why was I charged an unexpected currency conversion fee on my latest receipt?", "intent": "billing_and_payments", "urgency": "medium"}
+{"id": "t-1014", "text": "I would like to return an open-box defective headphone under your 30-day warranty.", "intent": "cancellation_and_refund", "urgency": "medium"}
+{"id": "t-1015", "text": "How do I change the primary email address associated with my administrative profile?", "intent": "account_access", "urgency": "low"}
+{"id": "t-1016", "text": "Can I expedite my delivery to overnight shipping after placing the order 1 hour ago?", "intent": "order_tracking", "urgency": "medium"}
+{"id": "t-1017", "text": "Webhooks are dropping payload deliveries and failing with a timeout error.", "intent": "technical_support", "urgency": "critical"}
+{"id": "t-1018", "text": "Where can I view your compliance certifications for SOC2 and GDPR?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "t-1019", "text": "My card was declined even though I have sufficient funds, please assist.", "intent": "billing_and_payments", "urgency": "high"}
+{"id": "t-1020", "text": "I tried to request a refund through the portal, but it says my window has expired.", "intent": "cancellation_and_refund", "urgency": "medium"}
+{"id": "t-1021", "text": "Suspicious login notification received from an IP address in another country.", "intent": "account_access", "urgency": "critical"}
+{"id": "t-1022", "text": "Has my package left the sorting center yet? Tracking status says in transit.", "intent": "order_tracking", "urgency": "low"}
+{"id": "t-1023", "text": "The API endpoint returns a 429 Too Many Requests status code even on low traffic.", "intent": "technical_support", "urgency": "high"}
+{"id": "t-1024", "text": "Is there a student discount or non-profit pricing tier available?", "intent": "general_inquiry", "urgency": "low"}

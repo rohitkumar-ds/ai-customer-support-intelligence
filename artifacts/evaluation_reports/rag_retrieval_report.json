@@ -1,0 +1,31 @@
+{
+  "cases": [
+    {
+      "query": "How long before a refund appears on my card?",
+      "relevant": [
+        "faqs.jsonl",
+        "cancellation_and_refunds.md"
+      ]
+    },
+    {
+      "query": "My tracking says delivered but the package is missing.",
+      "relevant": [
+        "faqs.jsonl",
+        "shipping_and_delivery.md"
+      ]
+    },
+    {
+      "query": "My 2FA code does not arrive.",
+      "relevant": [
+        "faqs.jsonl",
+        "account_security.md"
+      ]
+    }
+  ],
+  "metrics": {
+    "recall_at_k": 0.8333,
+    "precision_at_k": 1.0,
+    "mrr": 1.0
+  },
+  "note": "Small manual evaluation set; expand for reliable conclusions."
+}

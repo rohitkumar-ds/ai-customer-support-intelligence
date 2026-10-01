@@ -1,0 +1,41 @@
+# ==============================================================================
+# Logging Configuration
+# ==============================================================================
+# Configures structured console and rotating file logging for debugging & auditing.
+# ==============================================================================
+
+version: 1
+disable_existing_loggers: false
+
+formatters:
+  standard:
+    format: "%(asctime)s [%(levelname)s] %(name)s (%(filename)s:%(lineno)d): %(message)s"
+    datefmt: "%Y-%m-%d %H:%M:%S"
+  simple:
+    format: "[%(levelname)s] %(name)s: %(message)s"
+
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: simple
+    stream: ext://sys.stdout
+
+  rotating_file:
+    class: logging.handlers.RotatingFileHandler
+    level: DEBUG
+    formatter: standard
+    filename: "logs/app.log"
+    maxBytes: 10485760 # 10 MB
+    backupCount: 5
+    encoding: utf8
+
+loggers:
+  src:
+    level: DEBUG
+    handlers: [console, rotating_file]
+    propagate: false
+
+root:
+  level: INFO
+  handlers: [console]

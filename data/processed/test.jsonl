@@ -1,0 +1,20 @@
+{"text":"Unable to log in, the screen says 'Account suspended due to too many failed password attempts'.","intent":"account_access"}
+{"text":"Estimated delivery date was yesterday but package has not arrived.","intent":"order_tracking"}
+{"text":"Can I get an itemized breakdown of usage-based charges on my bill?","intent":"billing_and_payments"}
+{"text":"Need a copy of all my paid invoices for the fiscal year 2023 for tax filing.","intent":"billing_and_payments"}
+{"text":"Stop auto-renewing my subscription. Cancel immediately.","intent":"cancellation_and_refund"}
+{"text":"File download hangs at 99% and eventually times out with a network error.","intent":"technical_support"}
+{"text":"Can you reset my 2FA authentication? My phone was stolen over the weekend.","intent":"account_access"}
+{"text":"Is there an educational discount or non-profit pricing tier available?","intent":"general_inquiry"}
+{"text":"Where can I track delivery of replacement components sent under warranty?","intent":"order_tracking"}
+{"text":"Password reset email is not landing in my inbox or junk folder after 30 minutes.","intent":"account_access"}
+{"text":"Where is my order #84920? The tracking page has not updated in 4 days.","intent":"order_tracking"}
+{"text":"I am within the 14-day warranty period and would like to return this order for a full refund.","intent":"cancellation_and_refund"}
+{"text":"The CSV export feature generates a corrupted file with missing columns.","intent":"technical_support"}
+{"text":"I would like to cancel my order before it ships from the fulfillment warehouse.","intent":"cancellation_and_refund"}
+{"text":"Do you support single sign-on SSO integration with Okta or Azure AD?","intent":"general_inquiry"}
+{"text":"Can I expedite my delivery to overnight courier? Placed the order 30 minutes ago.","intent":"order_tracking"}
+{"text":"What browsers and minimum operating system versions are supported?","intent":"general_inquiry"}
+{"text":"Getting a 500 internal server error when uploading a CSV file to the analytics dashboard.","intent":"technical_support"}
+{"text":"Can multiple administrators share a single enterprise organization account?","intent":"general_inquiry"}
+{"text":"I want to update my billing address and add a VAT number to my company invoice.","intent":"billing_and_payments"}

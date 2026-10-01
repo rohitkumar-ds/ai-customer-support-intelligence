@@ -1,0 +1,131 @@
+# Evaluation Report
+
+```json
+{
+  "model_metadata": {
+    "model_type": "tfidf_logistic_regression",
+    "classes": [
+      "account_access",
+      "billing_and_payments",
+      "cancellation_and_refund",
+      "general_inquiry",
+      "order_tracking",
+      "technical_support"
+    ],
+    "vocabulary_size": 1108,
+    "ngram_range": [
+      1,
+      2
+    ]
+  },
+  "total_test_samples": 20,
+  "global_metrics": {
+    "accuracy": 0.8,
+    "precision_macro": 0.85,
+    "recall_macro": 0.7917,
+    "macro_f1": 0.7762,
+    "weighted_f1": 0.7861,
+    "per_class": {
+      "account_access": {
+        "precision": 0.75,
+        "recall": 1.0,
+        "f1-score": 0.8571,
+        "support": 3.0
+      },
+      "billing_and_payments": {
+        "precision": 1.0,
+        "recall": 0.3333,
+        "f1-score": 0.5,
+        "support": 3.0
+      },
+      "cancellation_and_refund": {
+        "precision": 0.6,
+        "recall": 1.0,
+        "f1-score": 0.75,
+        "support": 3.0
+      },
+      "general_inquiry": {
+        "precision": 0.75,
+        "recall": 0.75,
+        "f1-score": 0.75,
+        "support": 4.0
+      },
+      "order_tracking": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 4.0
+      },
+      "technical_support": {
+        "precision": 1.0,
+        "recall": 0.6667,
+        "f1-score": 0.8,
+        "support": 3.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        4,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        2
+      ]
+    ],
+    "labels": [
+      "account_access",
+      "billing_and_payments",
+      "cancellation_and_refund",
+      "general_inquiry",
+      "order_tracking",
+      "technical_support"
+    ]
+  },
+  "latency_ms": {
+    "mean": 1.526,
+    "p50": 1.112,
+    "p95": 3.143
+  }
+}
+```

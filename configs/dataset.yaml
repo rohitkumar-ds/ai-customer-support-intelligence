@@ -1,0 +1,9 @@
+# Dataset configuration.
+# banking77 is a real public benchmark and is downloaded by Hugging Face datasets.
+source: banking77
+local_path: data/raw/tickets.jsonl
+text_column: text
+label_column: intent
+test_size: 0.20
+validation_size: 0.10
+random_seed: 42

@@ -1,0 +1,8 @@
+[
+  {"message":"My payment was deducted twice but my order is still showing pending.","expected_intent":"billing_and_payments"},
+  {"message":"My order #A78291 has not moved for four days.","expected_intent":"order_tracking"},
+  {"message":"The app crashes immediately after I log in.","expected_intent":"technical_support"},
+  {"message":"I forgot my password and the reset link expired.","expected_intent":"account_access"},
+  {"message":"Can I cancel my subscription and get a prorated refund?","expected_intent":"cancellation_and_refund"},
+  {"message":"What are your customer support business hours?","expected_intent":"general_inquiry"}
+]

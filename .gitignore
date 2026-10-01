@@ -1,0 +1,98 @@
+# ============================================================
+# Python
+# ============================================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ============================================================
+# Environment & Secrets
+# ============================================================
+
+.env
+.env.*
+!.env.example
+
+# ============================================================
+# Jupyter
+# ============================================================
+
+.ipynb_checkpoints/
+
+# ============================================================
+# Logs & Runtime Files
+# ============================================================
+
+*.log
+*.tmp
+*.temp
+
+# ============================================================
+# Generated Model Artifacts
+# ============================================================
+
+# Trained model binaries
+*.joblib
+*.pkl
+*.pickle
+*.bin
+
+# Generated Transformer/tokenizer artifacts
+models/bert/intent_classifier/
+
+# Generated embedding/vector-store files
+models/embeddings/*.index
+models/embeddings/*.faiss
+models/embeddings/*.json
+
+# ============================================================
+# Model Directories
+# Keep directory structure but don't commit generated models
+# ============================================================
+
+models/bert/
+models/embeddings/
+models/sentiment/
+models/tfidf/
+
+# ============================================================
+# Data That Should Not Be Committed
+# ============================================================
+
+# Keep project structure, but ignore local/generated datasets
+# Uncomment these if your datasets are generated locally:
+# data/raw/*
+# data/processed/*
+
+# ============================================================
+# OS / Editor Files
+# ============================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+
+# ============================================================
+# Temporary Files
+# ============================================================
+
+*.bak
+*.swp
+*.swo
+*~

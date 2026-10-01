@@ -1,0 +1,96 @@
+{"id": "TKT-1001", "text": "I was double charged for my monthly subscription on March 5th.", "intent": "billing_and_payments", "urgency": "high"}
+{"id": "TKT-1002", "text": "Can I cancel my subscription and receive a prorated refund for the unused months?", "intent": "cancellation_and_refund", "urgency": "medium"}
+{"id": "TKT-1003", "text": "I forgot my master password and the reset link emailed to me has expired.", "intent": "account_access", "urgency": "high"}
+{"id": "TKT-1004", "text": "Where is my order #84920? The tracking page has not updated in 4 days.", "intent": "order_tracking", "urgency": "medium"}
+{"id": "TKT-1005", "text": "The mobile app keeps crashing immediately upon login on my iPhone 15.", "intent": "technical_support", "urgency": "critical"}
+{"id": "TKT-1006", "text": "What are your customer service hours and do you offer phone support on weekends?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1007", "text": "I want to update my billing address and add a VAT number to my company invoice.", "intent": "billing_and_payments", "urgency": "medium"}
+{"id": "TKT-1008", "text": "I bought this license yesterday by mistake. Please cancel it and refund my money immediately.", "intent": "cancellation_and_refund", "urgency": "high"}
+{"id": "TKT-1009", "text": "My 2-Factor Authentication code is not arriving via SMS, I am locked out of my account.", "intent": "account_access", "urgency": "critical"}
+{"id": "TKT-1010", "text": "Tracking number US94821 shows delivered but there is no package at my door.", "intent": "order_tracking", "urgency": "high"}
+{"id": "TKT-1011", "text": "Getting a 500 internal server error when uploading a CSV file to the analytics dashboard.", "intent": "technical_support", "urgency": "high"}
+{"id": "TKT-1012", "text": "Do you support single sign-on SSO integration with Okta or Azure AD?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1013", "text": "Why was I charged an unexpected international transaction fee on my latest receipt?", "intent": "billing_and_payments", "urgency": "medium"}
+{"id": "TKT-1014", "text": "I would like to return an open-box defective headset under your 30-day return policy.", "intent": "cancellation_and_refund", "urgency": "medium"}
+{"id": "TKT-1015", "text": "How do I change the email address registered with my primary admin profile?", "intent": "account_access", "urgency": "low"}
+{"id": "TKT-1016", "text": "Can I expedite my delivery to overnight courier? Placed the order 30 minutes ago.", "intent": "order_tracking", "urgency": "medium"}
+{"id": "TKT-1017", "text": "Webhook notifications are timing out and dropping payload deliveries to our endpoint.", "intent": "technical_support", "urgency": "critical"}
+{"id": "TKT-1018", "text": "Where can I view your compliance whitepapers for SOC2 Type II and HIPAA?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1019", "text": "My credit card was declined even though I have available balance, please assist.", "intent": "billing_and_payments", "urgency": "high"}
+{"id": "TKT-1020", "text": "I tried to request a refund through the portal, but it says my eligibility window expired.", "intent": "cancellation_and_refund", "urgency": "medium"}
+{"id": "TKT-1021", "text": "Suspicious login alert received from an unknown IP address in another country.", "intent": "account_access", "urgency": "critical"}
+{"id": "TKT-1022", "text": "Has my package left the sorting facility yet? Tracking status says in transit.", "intent": "order_tracking", "urgency": "low"}
+{"id": "TKT-1023", "text": "The REST API endpoint returns 429 Too Many Requests even with low query traffic.", "intent": "technical_support", "urgency": "high"}
+{"id": "TKT-1024", "text": "Is there an educational discount or non-profit pricing tier available?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1025", "text": "Need a copy of all my paid invoices for the fiscal year 2023 for tax filing.", "intent": "billing_and_payments", "urgency": "low"}
+{"id": "TKT-1026", "text": "Please terminate my subscription effective immediately and send written confirmation.", "intent": "cancellation_and_refund", "urgency": "medium"}
+{"id": "TKT-1027", "text": "Unable to log in, the screen says 'Account suspended due to too many failed password attempts'.", "intent": "account_access", "urgency": "high"}
+{"id": "TKT-1028", "text": "Can you verify if package with tracking ID #93019 requires signature on delivery?", "intent": "order_tracking", "urgency": "low"}
+{"id": "TKT-1029", "text": "Database sync is broken after updating to the latest desktop application version.", "intent": "technical_support", "urgency": "critical"}
+{"id": "TKT-1030", "text": "What is the maximum file upload size supported on the standard plan?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1031", "text": "There is an unknown recurring fee of $49 on my bank statement from your company.", "intent": "billing_and_payments", "urgency": "high"}
+{"id": "TKT-1032", "text": "I was promised a full refund by your chat agent 10 days ago but have not received funds.", "intent": "cancellation_and_refund", "urgency": "high"}
+{"id": "TKT-1033", "text": "I lost my phone and need to reset my Google Authenticator 2FA tokens.", "intent": "account_access", "urgency": "critical"}
+{"id": "TKT-1034", "text": "FedEx lost my package according to the tracking status exception notice.", "intent": "order_tracking", "urgency": "high"}
+{"id": "TKT-1035", "text": "Search queries are failing with code ERR_CONNECTION_REFUSED on the web app.", "intent": "technical_support", "urgency": "critical"}
+{"id": "TKT-1036", "text": "Does your platform support multi-language interfaces such as Spanish and German?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1037", "text": "How do I switch my payment method from credit card to ACH direct debit?", "intent": "billing_and_payments", "urgency": "low"}
+{"id": "TKT-1038", "text": "The item I received is completely damaged. I need a return shipping label and refund.", "intent": "cancellation_and_refund", "urgency": "high"}
+{"id": "TKT-1039", "text": "Password reset email is not landing in my inbox or junk folder after 30 minutes.", "intent": "account_access", "urgency": "high"}
+{"id": "TKT-1040", "text": "Can I reroute my shipment to a different delivery address while it is in transit?", "intent": "order_tracking", "urgency": "medium"}
+{"id": "TKT-1041", "text": "Memory leak observed in the background worker process after running for 6 hours.", "intent": "technical_support", "urgency": "high"}
+{"id": "TKT-1042", "text": "Are there API limits or rate quotas on the developer tier?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1043", "text": "Why did my monthly subscription rate increase from $20 to $35 without prior notice?", "intent": "billing_and_payments", "urgency": "high"}
+{"id": "TKT-1044", "text": "Cancel my trial before the auto-charge date tomorrow please.", "intent": "cancellation_and_refund", "urgency": "high"}
+{"id": "TKT-1045", "text": "I cannot access my team workspace because my role was accidentally changed to guest.", "intent": "account_access", "urgency": "medium"}
+{"id": "TKT-1046", "text": "When will tracking update for international shipment destination to Canada?", "intent": "order_tracking", "urgency": "low"}
+{"id": "TKT-1047", "text": "SSL certificate expired error shown when connecting to the custom domain.", "intent": "technical_support", "urgency": "critical"}
+{"id": "TKT-1048", "text": "Do you provide an SLA uptime guarantee for the business tier?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1049", "text": "Can you provide a tax invoice with our official company legal name and address?", "intent": "billing_and_payments", "urgency": "low"}
+{"id": "TKT-1050", "text": "I am dissatisfied with the product performance and request a full refund within 30 days.", "intent": "cancellation_and_refund", "urgency": "medium"}
+{"id": "TKT-1051", "text": "My account was compromised and unauthorized API tokens were generated.", "intent": "account_access", "urgency": "critical"}
+{"id": "TKT-1052", "text": "The courier delivered the package to the wrong apartment building.", "intent": "order_tracking", "urgency": "high"}
+{"id": "TKT-1053", "text": "WebSocket disconnects every 45 seconds with error 1006 abnormal closure.", "intent": "technical_support", "urgency": "high"}
+{"id": "TKT-1054", "text": "Can multiple administrators share a single enterprise organization account?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1055", "text": "Received a bill for seats we removed two weeks ago from our workspace.", "intent": "billing_and_payments", "urgency": "high"}
+{"id": "TKT-1056", "text": "I want to cancel the renewal scheduled for next week and close the account.", "intent": "cancellation_and_refund", "urgency": "medium"}
+{"id": "TKT-1057", "text": "Locked out of my dashboard because my mobile authenticator was on a lost device.", "intent": "account_access", "urgency": "critical"}
+{"id": "TKT-1058", "text": "Package tracking says delayed due to weather conditions. What is the new ETA?", "intent": "order_tracking", "urgency": "low"}
+{"id": "TKT-1059", "text": "The CSV export feature generates a corrupted file with missing columns.", "intent": "technical_support", "urgency": "medium"}
+{"id": "TKT-1060", "text": "What third-party integrations with CRM tools like Salesforce are supported?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1061", "text": "Payment failed: Card was declined with code 'insufficient_funds'. Can I retry with PayPal?", "intent": "billing_and_payments", "urgency": "high"}
+{"id": "TKT-1062", "text": "Refund not credited back to my debit card after 14 business days.", "intent": "cancellation_and_refund", "urgency": "high"}
+{"id": "TKT-1063", "text": "How do I revoke access tokens for former employees on our corporate account?", "intent": "account_access", "urgency": "high"}
+{"id": "TKT-1064", "text": "Tracking number does not exist on the postal service website.", "intent": "order_tracking", "urgency": "medium"}
+{"id": "TKT-1065", "text": "High CPU utilization spike causes the dashboard to freeze for all users.", "intent": "technical_support", "urgency": "critical"}
+{"id": "TKT-1066", "text": "Do you offer in-person training sessions or onboarding webinars for new teams?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1067", "text": "Can I get an itemized breakdown of usage-based charges on my bill?", "intent": "billing_and_payments", "urgency": "low"}
+{"id": "TKT-1068", "text": "Cancel my membership immediately. I do not want any further billing cycles.", "intent": "cancellation_and_refund", "urgency": "medium"}
+{"id": "TKT-1069", "text": "Getting an 'Invalid Credentials' error even though my password was updated yesterday.", "intent": "account_access", "urgency": "high"}
+{"id": "TKT-1070", "text": "My package was marked as returned to sender due to incorrect postal code.", "intent": "order_tracking", "urgency": "high"}
+{"id": "TKT-1071", "text": "OAuth 2.0 callback URL returns 400 Bad Request error.", "intent": "technical_support", "urgency": "high"}
+{"id": "TKT-1072", "text": "What browsers and minimum operating system versions are supported?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1073", "text": "I was charged twice because the checkout page refreshed during payment submission.", "intent": "billing_and_payments", "urgency": "high"}
+{"id": "TKT-1074", "text": "Requesting a refund for an accidental purchase made by a team member without authorization.", "intent": "cancellation_and_refund", "urgency": "medium"}
+{"id": "TKT-1075", "text": "Can you reset my 2FA authentication? My phone was stolen over the weekend.", "intent": "account_access", "urgency": "critical"}
+{"id": "TKT-1076", "text": "The shipping status has been stuck at 'Label Created' for 5 days without carrier movement.", "intent": "order_tracking", "urgency": "medium"}
+{"id": "TKT-1077", "text": "Application throws unhandled exception 'TypeError: Cannot read properties of undefined' on checkout.", "intent": "technical_support", "urgency": "critical"}
+{"id": "TKT-1078", "text": "Is data stored on your cloud servers encrypted at rest using AES-256?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1079", "text": "Please update our billing contact email to accounting@examplecorp.com.", "intent": "billing_and_payments", "urgency": "low"}
+{"id": "TKT-1080", "text": "I am within the 14-day warranty period and would like to return this order for a full refund.", "intent": "cancellation_and_refund", "urgency": "medium"}
+{"id": "TKT-1081", "text": "Unable to receive verification email on my corporate domain.", "intent": "account_access", "urgency": "high"}
+{"id": "TKT-1082", "text": "Where can I track delivery of replacement components sent under warranty?", "intent": "order_tracking", "urgency": "medium"}
+{"id": "TKT-1083", "text": "Database deadlocks occurring during concurrent writes to the transactions table.", "intent": "technical_support", "urgency": "critical"}
+{"id": "TKT-1084", "text": "What is the policy regarding data export if we decide to migrate to another provider?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1085", "text": "Why is sales tax being charged on our invoice when we are a tax-exempt entity?", "intent": "billing_and_payments", "urgency": "medium"}
+{"id": "TKT-1086", "text": "Stop auto-renewing my subscription. Cancel immediately.", "intent": "cancellation_and_refund", "urgency": "high"}
+{"id": "TKT-1087", "text": "My account password was changed without my authorization, please lock the account!", "intent": "account_access", "urgency": "critical"}
+{"id": "TKT-1088", "text": "Estimated delivery date was yesterday but package has not arrived.", "intent": "order_tracking", "urgency": "medium"}
+{"id": "TKT-1089", "text": "File download hangs at 99% and eventually times out with a network error.", "intent": "technical_support", "urgency": "high"}
+{"id": "TKT-1090", "text": "Do you offer discounts for annual upfront prepayment versus monthly billing?", "intent": "general_inquiry", "urgency": "low"}
+{"id": "TKT-1091", "text": "Overcharged on the latest bill due to incorrect seat count calculation.", "intent": "billing_and_payments", "urgency": "high"}
+{"id": "TKT-1092", "text": "I would like to cancel my order before it ships from the fulfillment warehouse.", "intent": "cancellation_and_refund", "urgency": "high"}
+{"id": "TKT-1093", "text": "Can an administrator manually unlock my profile after multiple failed logins?", "intent": "account_access", "urgency": "high"}
+{"id": "TKT-1094", "text": "Can I pick up my parcel directly at the local delivery depot instead of home delivery?", "intent": "order_tracking", "urgency": "low"}
+{"id": "TKT-1095", "text": "Internal error 503 Service Unavailable when invoking the batch export endpoint.", "intent": "technical_support", "urgency": "critical"}
+{"id": "TKT-1096", "text": "Where are your primary cloud data centers located geographically?", "intent": "general_inquiry", "urgency": "low"}
